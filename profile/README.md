@@ -93,7 +93,6 @@ The current development goals are:
 * Artifact publishing
 * Artifact discovery
 * Artifact download
-* Artifact sharing
 * Content verification
 * Device authentication
 * Access control
